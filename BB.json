@@ -25,7 +25,7 @@
 			"name": "Butcher's Cleaver",
 			"baseItem": "+1 shortsword|DMG",
 			"tier": "major",
-			"type": "HA",
+			"type": "M",
 			"weight": 1,
 			"armor": true,
 			"ac": 17,
@@ -43,6 +43,32 @@
 				"As a bonus action, the user may 'feed' the armor blood from their veins. If they do so, the next time they take the attack action, they may roll their Hit Die (HD) and add that value to both the hit and damage of the attack. Then the value must also be subtracted from their own hitpoints."
 			]
 			
-		}
+		},    
+        {
+                "name": "Anklet of Hobbling",
+                "source": "ButeraBoutique",
+                "page": 5,
+                "rarity": "rare",
+                "wondrous": true,
+                "entries": [
+                    "When this delicate golden chain is placed around the ankle of a creature, the creature has its speed reduced to half. The anklet can only be placed on an unwilling creature if the creature is {@condition incapacitated}.",
+                    "You and any creature you designate when you use the anklet can use an action to remove it. Once every 10 days, the bound creature can make a {@dc 20} Strength ({@skill Athletics}) check. On a success, the creature breaks free and destroys the anklet."
+                ],
+                "lootTables": [
+                    "Rare Magic Items (Table G)|MToMM"
+                ],
+                "fluff": {
+                    "entries": [
+                        {
+                            "type": "quote",
+                            "entries": [
+                                "Hobbling a creature over an extended period can result in permanent injury and is really a form of torture. I can think of few instances where the Balance is served by gratuitous cruelty."
+                            ],
+                            "by": "Mordenkainen"
+                        }
+                    ]
+                }
+            }
+    
 ]
 }
