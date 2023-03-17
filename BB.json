@@ -1,0 +1,48 @@
+{
+"_meta": {
+    "sources": [
+        {
+            "json": "ButeraBoutique",
+            "abbreviation": "BBB",
+            "full": "Butera's Boutique of Believabilities",
+            "authors": [
+                "Ayden"
+            ],
+            "convertedBy": [
+                "myself"
+            ],
+            "version": "1.0",
+            "color": "",
+            "url": "",
+            "targetSchema": "1.2"
+        }
+    ],
+    "dateAdded": 1678826081,
+    "dateLastModified": 1678826081
+},
+"item":[
+    {
+			"name": "Butcher's Cleaver",
+			"baseItem": "+1 shortsword|DMG",
+			"tier": "major",
+			"type": "HA",
+			"weight": 1,
+			"armor": true,
+			"ac": 17,
+			"bonusAc": "+1",
+			"strength": "15",
+			"stealth": true,
+			"rarity": "rare",
+			"wondrous": true,
+			"reqAttune": true,
+			"value": 50000,
+			"weapon": false,
+			"source": "ButeraBoutique",
+			"entries": [
+				"This armor is a black suit of +1 splint mail, latticed with intricate etchings that roughly follow the lines of the major blood vessels on the body of a potential wearer.",
+				"As a bonus action, the user may 'feed' the armor blood from their veins. If they do so, the next time they take the attack action, they may roll their Hit Die (HD) and add that value to both the hit and damage of the attack. Then the value must also be subtracted from their own hitpoints."
+			]
+			
+		}
+]
+}
