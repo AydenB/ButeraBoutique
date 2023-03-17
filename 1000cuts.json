@@ -38,7 +38,7 @@
 			"sword": true,
 			"weapon": true,
 			"entries": [
-				"Passed from swordmaster to apprentice for hundreds of years, this gleaming silver blade has been spoken in countless legends. You gain a +3 bonus to attack and damage rolls made with tihs magic weapon.",
+				"Passed from swordmaster to apprentice for hundreds of years, this gleaming silver blade has been spoken in countless legends. You gain a +3 bonus to attack and damage rolls made with this magic weapon.",
 				{
 					"type": "entries",
 					"name": "Way of the Sword",
