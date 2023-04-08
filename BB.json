@@ -84,6 +84,14 @@
                     "Rare Magic Items (Table G)|MToMM"
                 ],
                 "fluff": {
+                    "images":[
+                    {
+                        "type": "image",
+                        "href": {
+                            "type": "external",
+                            "url": "https://github.com/AydenB/obsidian/blob/master/Glacier/etwc6hru.bmp?raw=true"
+                        }
+                    },
                     "entries": [
                         {
                             "type": "quote",
