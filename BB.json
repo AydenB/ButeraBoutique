@@ -69,6 +69,32 @@
                     ]
                 }
             },
+            {
+                "name": "Battering Ram in a Can",
+                "source": "ButeraBoutique",
+                "page": 5,
+                "rarity": "rare",
+                "wondrous": true,
+                "entries": [
+                    "It's a can that, when opened, fires out a battering ram at full force, knocking down a single door of up to medium fortitude. One Use Only",
+                    "Instructions:
+                    Step 1- Point away from face."
+                ],
+                "lootTables": [
+                    "Rare Magic Items (Table G)|MToMM"
+                ],
+                "fluff": {
+                    "entries": [
+                        {
+                            "type": "quote",
+                            "entries": [
+                                "A.C.M.E."
+                            ],
+                            "by": "Mordenkainen"
+                        }
+                    ]
+                }
+            },
         {
             "name": "Alastor",
             "baseItem": "longsword|phb",
