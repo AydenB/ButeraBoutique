@@ -103,6 +103,40 @@
                     ]
                 }
             },
+            {
+                "name": "Briar Rose Amulet",
+                "source": "ButeraBoutique",
+                "page": 6,
+                "rarity": "rare",
+                "wondrous": true,
+                "entries": [
+                    "This necklace sends the wearer into a magical slumber. The creature is unconscious until the necklace is taken off or if the creature takes damage. Once the creature takes damage they are poisoned until they can take the necklace off.",
+                    "Undead and creatures immune to charmed arent affected"
+                ],
+                "lootTables": [
+                    "Rare Magic Items (Table G)|MToMM"
+                ],
+                "fluff": {
+                    "images":[
+                    {
+                        "type": "image",
+                        "href": {
+                            "type": "external",
+                            "url": "https://raw.githubusercontent.com/AydenB/obsidian/master/Glacier/uqf7v4x5.bmp?token=GHSAT0AAAAAACC4C3ZKDQZIPZKFVRZCQTKSZDRSTHQ"
+                        }
+                    }
+                ],
+                    "entries": [
+                        {
+                            "type": "quote",
+                            "entries": [
+                                "Disney"
+                            ],
+                            "by": "Mordenkainen"
+                        }
+                    ]
+                }
+            },
         {
             "name": "Alastor",
             "baseItem": "longsword|phb",
