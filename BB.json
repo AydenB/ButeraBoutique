@@ -137,6 +137,40 @@
                     ]
                 }
             },
+            {
+                "name": "Chain Breaker",
+                "source": "ButeraBoutique",
+                "page": 7,
+                "rarity": "rare",
+                "wondrous": true,
+                "entries": [
+                    "Shield has a +2 to AC. Immune to a elemental damage (fire or such). Has a dragon/skull embossed in the shield. 3 chains keep this creature bounded in the shield. when someone hits the hero with a Crit, one of the chain breaks. When the 3rd chain breaks the creature gets released.",
+                    "https://5e.tools/bestiary.html#horned%20devil_mm"
+                ],
+                "lootTables": [
+                    "Rare Magic Items (Table G)|MToMM"
+                ],
+                "fluff": {
+                    "images":[
+                    {
+                        "type": "image",
+                        "href": {
+                            "type": "external",
+                            "url": "https://raw.githubusercontent.com/AydenB/obsidian/master/Glacier/n237ba0h.bmp?token=GHSAT0AAAAAACC4C3ZK5GKLKA4ZCP5Q7XYQZDRSW5A"
+                        }
+                    }
+                ],
+                    "entries": [
+                        {
+                            "type": "quote",
+                            "entries": [
+                                "Devil is in the details"
+                            ],
+                            "by": "Mordenkainen"
+                        }
+                    ]
+                }
+            },
         {
             "name": "Alastor",
             "baseItem": "longsword|phb",
@@ -166,6 +200,41 @@
                         "href": {
                             "type": "external",
                             "url": "https://vignette.wikia.nocookie.net/devilmaycry/images/b/b9/Alastor_%28DA%29_DMC1.png"
+                        }
+                    }
+                ]
+                
+            }
+        },
+        {
+            "name": "Flint & Steel",
+            "baseItem": "battleaxe|phb",
+            "type": "M",
+            "rarity": "uncommon",
+            "value": 5000,
+            "weight": 3,
+            "weaponCategory": "martial",
+            "property": [
+                "V"
+            ],
+            "dmg1": "1d8",
+            "dmgType": "S",
+            "dmg2": "1d10",
+            "sword": true,
+            "weapon": true,
+            "tier": "major",
+            "source": "ButeraBoutique",
+            "entries": [
+                "This handaxe has the handle of a flintlock pistol and a bottle composed of reinforced glass filled with oil. you have +1 on attack and damage.",
+                "While this axe is filled with oil you can use an action to fire a 15ft cone of fire. creatures within the cone must make a DC 13 Dex saving throw. 2d6 on a failed save or half if successful. The weapons next attack deals an addition 1d6 as the axe is capable of burning through flesh. Takes 1 action to reload."
+            ],
+            "fluff": {
+                "images": [
+                    {
+                        "type": "image",
+                        "href": {
+                            "type": "external",
+                            "url": "https://github.com/AydenB/obsidian/raw/master/Glacier/lpgtdatf.bmp"
                         }
                     }
                 ]
