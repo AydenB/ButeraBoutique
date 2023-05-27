@@ -77,8 +77,7 @@
                 "wondrous": true,
                 "entries": [
                     "It's a can that, when opened, fires out a battering ram at full force, knocking down a single door of up to medium fortitude. One Use Only",
-                    "Instructions:
-                    Step 1- Point away from face."
+                    "Instructions:Step 1- Point away from face."
                 ],
                 "lootTables": [
                     "Rare Magic Items (Table G)|MToMM"
@@ -91,7 +90,8 @@
                             "type": "external",
                             "url": "https://github.com/AydenB/obsidian/blob/master/Glacier/etwc6hru.bmp?raw=true"
                         }
-                    },
+                    }
+                ],
                     "entries": [
                         {
                             "type": "quote",
